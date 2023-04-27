@@ -1,12 +1,12 @@
-import { View, Text } from 'react-native'
-import React from 'react'
-import Demo from '@/components/Demo'
+import {View, Text} from 'react-native';
+import React from 'react';
+import Demo from '@/components/Demo';
 
 const App = () => (
-    <View>
+  <View>
     <Text>App</Text>
-      <Demo />
-    </View>
-  );
+    <Demo />
+  </View>
+);
 
-export default App
+export default App;
