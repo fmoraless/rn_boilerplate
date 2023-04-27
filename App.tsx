@@ -2,13 +2,11 @@ import { View, Text } from 'react-native'
 import React from 'react'
 import Demo from '@/components/Demo'
 
-const App = () => {
-  return (
+const App = () => (
     <View>
-      <Text>App</Text>
+    <Text>App</Text>
       <Demo />
     </View>
-  )
-}
+  );
 
 export default App

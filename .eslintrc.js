@@ -11,5 +11,6 @@ module.exports = {
   rules: {
     'react/jsx-uses-react': 1,
     'arrow-body-style': ['error'],
+    'pretter/prettier': 0,
   },
 };
